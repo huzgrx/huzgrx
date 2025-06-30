@@ -36,22 +36,12 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 🎉 Support My Work
 
-<div align="center">
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/huzgrx)
-  [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/huzgrx)
-</div>
+- [ ] BEP 20, ERC 20
+- [ ] TRC20
+- [ ] SOL
+- [ ] BTC
 
 ---
-
-<div align="center">
-  ### 🚀 Let's build something amazing together!
-  
-  ![Visitor Count](https://profile-counter.glitch.me/huzgrx/count.svg)
-  
-  *"The best code is no code at all, but when you need to write it, make it beautiful."*
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzgrx)
-</div>
 
 <h2 align="center"><strong>Connect With Me</strong></h2>
 <p align="center"> 
