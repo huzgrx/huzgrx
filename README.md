@@ -13,58 +13,70 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huzgrx&repo=Git-Pull-Request-Issue-Code-Review-Creator)](https://github.com/huzgrx/Git-Pull-Request-Issue-Code-Review-Creator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huzgrx&repo=Messaging-APP)](https://github.com/huzgrx/Messaging-APP)
 
-<!-- Group Skills & Goals in one flex container -->
-<div style="display: flex; gap: 32px; flex-wrap: wrap;">
-  <div>
-    
-## 🌟 Skills & Expertise
-
-- **Frontend Development**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend Development**: Node.js, Python, Express.js, FastAPI
-- **Database Management**: MongoDB, PostgreSQL, Redis
-- **DevOps & Cloud**: AWS, Docker, CI/CD, GitHub Actions
-- **Mobile Development**: React Native, Flutter
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
-
-  </div>
-  <div>
-
-## 🎯 Goals for 2024
-
-- [ ] Contribute to 50+ open source projects
-- [ ] Learn Rust and Go programming languages
-- [ ] Build and deploy 10+ full-stack applications
-- [ ] Mentor 5+ junior developers
-- [ ] Write 20+ technical blog posts
-- [ ] Achieve AWS Solutions Architect certification
-
-  </div>
+<!-- Skills & Goals Section -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🌟 Skills & Expertise</h3>
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin: 8px 0;">🎨 <strong>Frontend:</strong> React, Next.js, TypeScript, Tailwind CSS</li>
+            <li style="margin: 8px 0;">⚙️ <strong>Backend:</strong> Node.js, Python, Express.js, FastAPI</li>
+            <li style="margin: 8px 0;">🗄️ <strong>Database:</strong> MongoDB, PostgreSQL, Redis</li>
+            <li style="margin: 8px 0;">☁️ <strong>DevOps:</strong> AWS, Docker, CI/CD, GitHub Actions</li>
+            <li style="margin: 8px 0;">📱 <strong>Mobile:</strong> React Native, Flutter</li>
+            <li style="margin: 8px 0;">🤖 <strong>AI/ML:</strong> TensorFlow, PyTorch, Scikit-learn</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎯 Goals for 2024</h3>
+        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin: 8px 0;">📈 Contribute to 50+ open source projects</li>
+            <li style="margin: 8px 0;">🦀 Learn Rust and Go programming languages</li>
+            <li style="margin: 8px 0;">🚀 Build and deploy 10+ full-stack applications</li>
+            <li style="margin: 8px 0;">👨‍🏫 Mentor 5+ junior developers</li>
+            <li style="margin: 8px 0;">✍️ Write 20+ technical blog posts</li>
+            <li style="margin: 8px 0;">🏆 Achieve AWS Solutions Architect certification</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Group Fun Facts & Support in one flex container -->
-<div style="display: flex; gap: 32px; flex-wrap: wrap; margin-top: 24px;">
-  <div>
-    
-## 🎯 Fun Facts
-
-- 🔥 I'm passionate about clean code and best practices
-- 🌱 I'm currently learning Rust and Go
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about React, Node.js, or any web development topic
-- 📫 How to reach me: [jonny@apexcoders.io](mailto:apexcoders.io)
-- ⚡ Fun fact: I can debug code while sleeping (almost!)
-
-  </div>
-  <div>
-
-## 🎉 Support My Work
-
-- [ ] BEP 20, ERC 20
-- [ ] TRC20
-- [ ] SOL
-- [ ] BTC
-
-  </div>
+<!-- Fun Facts & Support Section -->
+<div align="center" style="margin-top: 30px;">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🎯 Fun Facts</h3>
+        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin: 8px 0;">🔥 I'm passionate about clean code and best practices</li>
+            <li style="margin: 8px 0;">🌱 I'm currently learning Rust and Go</li>
+            <li style="margin: 8px 0;">👯 I'm looking to collaborate on open source projects</li>
+            <li style="margin: 8px 0;">💬 Ask me about React, Node.js, or any web development topic</li>
+            <li style="margin: 8px 0;">📫 How to reach me: <a href="mailto:jonny@apexcoders.io" style="color: #fff; text-decoration: underline;">jonny@apexcoders.io</a></li>
+            <li style="margin: 8px 0;">⚡ Fun fact: I can debug code while sleeping (almost!)</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎉 Support My Work</h3>
+        <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin: 8px 0;">💰 BEP 20, ERC 20</li>
+            <li style="margin: 8px 0;">🔗 TRC20</li>
+            <li style="margin: 8px 0;">⭐ SOL</li>
+            <li style="margin: 8px 0;">₿ BTC</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
