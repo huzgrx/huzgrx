@@ -10,8 +10,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## ⭐ Give Me Star
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huzgrx&repo=Git-Pull-Request-Issue-Code-Review-Creator)](https://github.com/huzgrx/Git-Pull-Request-Issue-Code-Review-Creator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huzgrx&repo=Messaging-APP)](https://github.com/huzgrx/Messaging-APP)
+
 
 ## 🌟 Skills & Expertise
 
