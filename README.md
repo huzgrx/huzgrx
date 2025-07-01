@@ -40,7 +40,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 📫 How to reach me: [huzgrx@example.com](mailto:huzgrx@example.com)
 - ⚡ Fun fact: I can debug code while sleeping (almost!)
 
-<a href="https://app.daily.dev/jonny0211"><img src="https://api.daily.dev/devcards/v2/4pTGnODOGHNTelsFkrUx3.png?type=default&r=t1t" width="356" alt="Hai, Nguyen Hoang's Dev Card"/></a>
+<a href="https://app.daily.dev/jonny0211"><img src="https://api.daily.dev/devcards/v2/4pTGnODOGHNTelsFkrUx3.png?type=default&r=t1t" width="356" alt="Hi, This is Jonny"/></a>
 
 ## 🎉 Support My Work
 
