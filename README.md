@@ -22,24 +22,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - **Mobile Development**: React Native, Flutter
 - **AI/ML**: TensorFlow, PyTorch, Scikit-learn
 
-## 🎯 Goals for 2024
-
-- [ ] Contribute to 50+ open source projects
-- [ ] Learn Rust and Go programming languages
-- [ ] Build and deploy 10+ full-stack applications
-- [ ] Mentor 5+ junior developers
-- [ ] Write 20+ technical blog posts
-- [ ] Achieve AWS Solutions Architect certification
-
-## 🎯 Fun Facts
-
-- 🔥 I'm passionate about clean code and best practices
-- 🌱 I'm currently learning Rust and Go
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about React, Node.js, or any web development topic
-- 📫 How to reach me: [jonny@apexcoders.io](mailto:apexcoders.io)
-- ⚡ Fun fact: I can debug code while sleeping (almost!)
-
 ## 🎉 Support My Work
 
 - [ ] BEP 20, ERC 20
