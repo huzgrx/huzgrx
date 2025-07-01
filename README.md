@@ -10,7 +10,10 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## ⭐ Give Me Star
 
-
+<div align="center">
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huzgrx&repo=Git-Pull-Request-Issue-Code-Review-Creator)](https://github.com/huzgrx/Git-Pull-Request-Issue-Code-Review-Creator)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huzgrx&repo=Messaging-APP)](https://github.com/huzgrx/Messaging-APP)
+</div>
 
 ## 🌟 Skills & Expertise
 
@@ -28,9 +31,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - [ ] SOL
 - [ ] BTC
 
----
+## 🎉 Connect With ME
 
-<h2 align="center"><strong>Connect With Me</strong></h2>
 <p align="center"> 
 <a href="https://t.me/jonny0211"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 &nbsp;
