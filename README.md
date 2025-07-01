@@ -29,7 +29,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - [ ] SOL
 - [ ] BTC
 
-## 🎉 Connect With ME
+## ☎️ Connect With ME
 
 <p align="center"> 
 <a href="https://t.me/jonny0211"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
