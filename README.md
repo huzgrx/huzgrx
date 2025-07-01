@@ -13,6 +13,10 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huzgrx&repo=Git-Pull-Request-Issue-Code-Review-Creator)](https://github.com/huzgrx/Git-Pull-Request-Issue-Code-Review-Creator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huzgrx&repo=Messaging-APP)](https://github.com/huzgrx/Messaging-APP)
 
+<!-- Group Skills & Goals in one flex container -->
+<div style="display: flex; gap: 32px; flex-wrap: wrap;">
+  <div>
+    
 ## 🌟 Skills & Expertise
 
 - **Frontend Development**: React, Next.js, TypeScript, Tailwind CSS
@@ -21,6 +25,9 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - **DevOps & Cloud**: AWS, Docker, CI/CD, GitHub Actions
 - **Mobile Development**: React Native, Flutter
 - **AI/ML**: TensorFlow, PyTorch, Scikit-learn
+
+  </div>
+  <div>
 
 ## 🎯 Goals for 2024
 
@@ -31,6 +38,13 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - [ ] Write 20+ technical blog posts
 - [ ] Achieve AWS Solutions Architect certification
 
+  </div>
+</div>
+
+<!-- Group Fun Facts & Support in one flex container -->
+<div style="display: flex; gap: 32px; flex-wrap: wrap; margin-top: 24px;">
+  <div>
+    
 ## 🎯 Fun Facts
 
 - 🔥 I'm passionate about clean code and best practices
@@ -40,12 +54,18 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 📫 How to reach me: [jonny@apexcoders.io](mailto:apexcoders.io)
 - ⚡ Fun fact: I can debug code while sleeping (almost!)
 
+  </div>
+  <div>
+
 ## 🎉 Support My Work
 
 - [ ] BEP 20, ERC 20
 - [ ] TRC20
 - [ ] SOL
 - [ ] BTC
+
+  </div>
+</div>
 
 ---
 
