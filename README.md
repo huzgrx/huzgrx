@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm [Huzgrx](https://github.com/huzgrx)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="https://app.daily.dev/jonny0211"><img src="https://api.daily.dev/devcards/v2/Iri3L89xfQ4nKcbNb7OwV.png?r=r29&type=wide" width="652" alt="John Lee's Dev Card"/></a>
 </div>
 
 ## 🚀 About Me
@@ -37,10 +37,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 🌱 I'm currently learning Rust and Go
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about React, Node.js, or any web development topic
-- 📫 How to reach me: [huzgrx@example.com](mailto:huzgrx@example.com)
+- 📫 How to reach me: [jonny@apexcoders.io](mailto:apexcoders.io)
 - ⚡ Fun fact: I can debug code while sleeping (almost!)
-
-<a href="https://app.daily.dev/jonny0211"><img src="https://api.daily.dev/devcards/v2/Iri3L89xfQ4nKcbNb7OwV.png?r=r29&type=wide" width="652" alt="John Lee's Dev Card"/></a>
 
 ## 🎉 Support My Work
 
