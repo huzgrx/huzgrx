@@ -29,7 +29,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 <p align="center"> 
 <a href="https://t.me/jonny0211"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 &nbsp;
-<a href="https://discordapp.com/users/1053702868407963669"><img alt="discord_logo" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="48px" width="48px" /></a>
+<a href="https://discordapp.com/users/1053702868407963669"><img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png&color=000000" height="48px" width="48px" /></a>
 &nbsp;
 <a href="https://github.com/huzgrx"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
