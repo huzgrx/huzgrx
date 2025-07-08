@@ -20,9 +20,9 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 🎉 Support My Work
 
 - [ ] BEP 20, ERC 20
-- [ ] TRC20
-- [ ] SOL
-- [ ] BTC
+- [ ] TRC20- TShix48bWgZ9wgMiiXrGWML3gPXgbUpHvG
+- [ ] SOL- 8XdGr5YKeQBWVKRqBiWMp7ivF7YaJyRhtHyoGzPR9s7k
+- [ ] BTC- 1JUNGAZcuSQLPeazmkj4uMbqYtMQhNwz54
 
 ## ☎️ Connect With ME
 
