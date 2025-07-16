@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm [Huzgrx](https://github.com/huzgrx)
 
-<div align="center">
-  <a href="https://app.daily.dev/jonny0211"><img src="https://api.daily.dev/devcards/v2/Iri3L89xfQ4nKcbNb7OwV.png?r=r29&type=wide" width="652" alt="John Lee's Dev Card"/></a>
-</div>
-
 ## 🚀 About Me
 
 I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. When I'm not coding, you can find me exploring new technologies or sharing knowledge with fellow developers.
