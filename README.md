@@ -4,7 +4,7 @@
 
 I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. When I'm not coding, you can find me exploring new technologies or sharing knowledge with fellow developers.
 
-<img src="https://telegram-card.vercel.app/?username=share_cold_works" alt="@Cold works" style="width: 300px; max-width: 100%; height: auto;" />
+<a href="https://t.me/share_cold_works"><img src="https://telegram-card.vercel.app/?username=share_cold_works" alt="@Cold works" style="max-width: 100%; height: auto;" /></a>
 
 ## 🌟 Skills & Expertise
 
