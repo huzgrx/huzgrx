@@ -62,18 +62,3 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 * **SOL** — `8XdGr5YKeQBWVKRqBiWMp7ivF7YaJyRhtHyoGzPR9s7k`
 * **BTC** — `1JUNGAZcuSQLPeazmkj4uMbqYtMQhNwz54`
 
----
-
-## ☎️ Connect With Me
-
-<p align="center"> 
-<a href="https://t.me/web2and3"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-&nbsp;
-<a href="https://discordapp.com/users/1051068888407875604"><img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png&color=000000" height="48px" width="48px" /></a>
-&nbsp;
-<a href="https://github.com/web2and3"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-&nbsp;
-<a href="https://twitter.com/web2_and3"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alexandru-senchea-3b6179378/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-</p>
