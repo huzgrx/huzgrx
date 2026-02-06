@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Web2and3**
+# 👋 Hi, I'm **Web2and3** 👨‍💻 | Open to work
 
 ### 🚀 Blockchain • Web3 • Full-Stack Developer
 
