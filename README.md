@@ -6,7 +6,8 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
+
 I'm a passionate developer who loves turning ideas into real, high-impact digital products.
 I work across **blockchain, full-stack development, automation, and mobile apps** — always focused on clean architecture, performance, and real-world results.
 
@@ -16,7 +17,7 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 
 ---
 
-## 🌟 Skills & Expertise
+### 🌟 Skills & Expertise
 
 ### 🧱 **Blockchain & Web3**
 
@@ -52,7 +53,7 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 
 ---
 
-## 🎉 Support My Work
+### 🎉 Support My Work
 
 **Crypto Donations:**
 
@@ -63,7 +64,7 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 
 ---
 
-## ☎️ Connect With Me
+### ☎️ Connect With Me
 
 <p align="center"> 
 <a href="https://t.me/web2and3"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
