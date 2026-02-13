@@ -6,14 +6,14 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 I'm a passionate developer who loves turning ideas into real, high-impact digital products.
 I work across **blockchain, full-stack development, automation, and mobile apps** — always focused on clean architecture, performance, and real-world results.
 
 When I'm not coding, I'm exploring new tech, contributing to open-source, or sharing knowledge with other developers.
 
-<a href="https://t.me/Hi_Web2and3"><img src="https://telegram-card.vercel.app/?username=Hi_Web2and3" alt="@Hi Web2 and 3" style="max-width: 100%; height: auto;" /></a>
+<a href="https://t.me/Hi_Web2and3"><img src="https://telegram-card.vercel.app/?username=Hi_Web2and3" alt="@Hi Web2 and 3" style="max-width: 100%; width:100%; height: auto;" /></a>
 
 ---
 
