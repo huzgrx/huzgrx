@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-widget-generator.netlify.app/api/card-with-avatar?username=web2and3&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://github-readme-widget-generator.netlify.app/api/card-with-avatar?username=web2and3&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=11" alt="Hi Web2 and Web3" /></a>
 
 </div>
 
