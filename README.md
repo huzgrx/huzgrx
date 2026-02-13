@@ -2,7 +2,7 @@
 
 ### 🚀 Blockchain • Web3 • Full-Stack Developer
 
-Building scalable products across Web2 & Web3 — from smart contracts to full production apps.
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=web2and3&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
