@@ -2,11 +2,11 @@
 
 ### 🚀 Blockchain • Web3 • Full-Stack Developer
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=web2and3&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=web2and3&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/web2and3)
 
 ---
 
-## 🚀 About Me
+
 
 I'm a passionate developer who loves turning ideas into real, high-impact digital products.
 I work across **blockchain, full-stack development, automation, and mobile apps** — always focused on clean architecture, performance, and real-world results.
