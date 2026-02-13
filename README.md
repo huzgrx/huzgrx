@@ -13,7 +13,7 @@ I work across **blockchain, full-stack development, automation, and mobile apps*
 
 When I'm not coding, I'm exploring new tech, contributing to open-source, or sharing knowledge with other developers.
 
-<a href="https://t.me/Hi_Web2and3"><img src="https://telegram-card.vercel.app/?username=hi_web2and3&theme=dark&bgColor=rgba%2816%2C22%2C38%2C1%29" alt="@Hi Web2 and 3" style="max-width: 100%; width:100%; height: auto;" /></a>
+<a href="https://t.me/Hi_Web2and3"><img src="https://telegram-card.vercel.app/?username=hi_web2and3&theme=dark&bgColor=rgba%2816%2C22%2C38%2C1%29" alt="@Hi Web2 and 3" style="" /></a>
 
 ---
 
