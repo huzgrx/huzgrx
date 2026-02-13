@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://github-readme-widget-generator.netlify.app/api/card-with-avatar?username=web2and3&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=1" alt="@Hi Web2 and 3" /></a>
+<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://github-readme-widget-generator.netlify.app/api/card-with-avatar?username=web2and3&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=9" alt="@Hi Web2 and 3" /></a>
 
 </div>
 
@@ -26,7 +26,7 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 
 <div align="center">
 
-<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://github-readme-widget-generator.netlify.app/api/skill-set-card?skills=React%2CTypeScript%2CJavaScript%2CHTML5%2CCSS%2CTailwind%2520CSS%2Cbootstrap%2520Redux%2CNext.js%2Cvue.js%2Cangular%2CFlutter%2CiOS%2Candroid%2CExpo%2CFigma%2CStyled%2520Components%2CNode.js%2Cphp%2Claravel%2CPython%2CDjango%2Cflask%2Ctensorflow%2CSpring%2520Boot%2CDocker%2CGit%2CJenkins%2Cethereum%2Csolana%2Cweb3.js%2Csolidity%2Crust%2CCryptomator&theme=%7B%22backgroundColor%22%3A%22%23215be4%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22badgeColor%22%3A%22%231e3a5f%22%2C%22badgeColor1%22%3A%22%23246684%22%2C%22badgeColor2%22%3A%22%2306b6d4%22%2C%22badgeColor3%22%3A%22%231e3a5f%22%7D&t=57&username=web2and3" alt="@Hi Web2 and 3" /></a>
+<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://github-readme-widget-generator.netlify.app/api/skill-set-card?skills=React%2CTypeScript%2CJavaScript%2CHTML5%2CCSS%2CTailwind%20CSS%2Cbootstrap%2CRedux%2CNext.js%2Cvue.js%2Cangular%2CFlutter%2CiOS%2Candroid%2CExpo%2CFigma%2CStyled%20Components%2CNode.js%2Cphp%2Claravel%2CPython%2CDjango%2Cflask%2Ctensorflow%2CSpring%20Boot%2CDocker%2CGit%2CJenkins%2Cethereum%2Csolana%2Cweb3.js%2Csolidity%2Crust&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23fef3c7%22%2C%22accentColor%22%3A%22%23f59e0b%22%2C%22borderColor%22%3A%22%2392400e%22%2C%22badgeColor%22%3A%22%2378350f%22%2C%22badgeColor1%22%3A%22%23dc2626%22%2C%22badgeColor2%22%3A%22%230f172a%22%2C%22badgeColor3%22%3A%22%2392400e%22%7D&t=8&username=web2and3" alt="@Hi Web2 and 3" /></a>
 
 </div>
 
