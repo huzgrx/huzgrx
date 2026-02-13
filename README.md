@@ -16,14 +16,17 @@ I'm a passionate developer who loves turning ideas into real, high-impact digita
 I work across **blockchain, full-stack development, automation, and mobile apps** — always focused on clean architecture, performance, and real-world results.
 
 When I'm not coding, I'm exploring new tech, contributing to open-source, or sharing knowledge with other developers.
+<div align="center">
+  
+<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://telegram-card.vercel.app/?username=hi_web2and3&theme=dark&bgColor=rgba%2816%2C22%2C38%2C1%29" alt="@Hi Web2 and 3" style="width: 400px;" /></a>
 
-<a href="https://t.me/Hi_Web2and3"><img src="https://telegram-card.vercel.app/?username=hi_web2and3&theme=dark&bgColor=rgba%2816%2C22%2C38%2C1%29" alt="@Hi Web2 and 3" style="width: 400px;" /></a>
+</div>
 
 ---
 
 <div align="center">
 
-![Skills](https://github-readme-widget-generator.netlify.app/api/skill-set-card?skills=React%2CTypeScript%2CJavaScript%2CHTML5%2CCSS%2CTailwind%2520CSS%2Cbootstrap%2520Redux%2CNext.js%2Cvue.js%2Cangular%2CFlutter%2CiOS%2Candroid%2CExpo%2CFigma%2CStyled%2520Components%2CNode.js%2Cphp%2Claravel%2CPython%2CDjango%2Cflask%2Ctensorflow%2CSpring%2520Boot%2CDocker%2CGit%2CJenkins%2Cethereum%2Csolana%2Cweb3.js%2Csolidity%2Crust%2CCryptomator&theme=%7B%22backgroundColor%22%3A%22%23215be4%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22badgeColor%22%3A%22%231e3a5f%22%2C%22badgeColor1%22%3A%22%23246684%22%2C%22badgeColor2%22%3A%22%2306b6d4%22%2C%22badgeColor3%22%3A%22%231e3a5f%22%7D&username=web2and3)
+<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://github-readme-widget-generator.netlify.app/api/skill-set-card?skills=React%2CTypeScript%2CJavaScript%2CHTML5%2CCSS%2CTailwind%2520CSS%2Cbootstrap%2520Redux%2CNext.js%2Cvue.js%2Cangular%2CFlutter%2CiOS%2Candroid%2CExpo%2CFigma%2CStyled%2520Components%2CNode.js%2Cphp%2Claravel%2CPython%2CDjango%2Cflask%2Ctensorflow%2CSpring%2520Boot%2CDocker%2CGit%2CJenkins%2Cethereum%2Csolana%2Cweb3.js%2Csolidity%2Crust%2CCryptomator&theme=%7B%22backgroundColor%22%3A%22%23215be4%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22badgeColor%22%3A%22%231e3a5f%22%2C%22badgeColor1%22%3A%22%23246684%22%2C%22badgeColor2%22%3A%22%2306b6d4%22%2C%22badgeColor3%22%3A%22%231e3a5f%22%7D&t=57&username=web2and3" alt="@Hi Web2 and 3" /></a>
 
 </div>
 
