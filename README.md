@@ -21,39 +21,11 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 
 ---
 
-### 🌟 Skills & Expertise
+<div align="center">
 
-### 🧱 **Blockchain & Web3**
+![Skills](https://github-readme-widget-generator.netlify.app/api/skill-set-card?skills=React%2CTypeScript%2CJavaScript%2CHTML5%2CCSS%2CTailwind%2520CSS%2Cbootstrap%2520Redux%2CNext.js%2Cvue.js%2Cangular%2CFlutter%2CiOS%2Candroid%2CExpo%2CFigma%2CStyled%2520Components%2CNode.js%2Cphp%2Claravel%2CPython%2CDjango%2Cflask%2Ctensorflow%2CSpring%2520Boot%2CDocker%2CGit%2CJenkins%2Cethereum%2Csolana%2Cweb3.js%2Csolidity%2Crust%2CCryptomator&theme=%7B%22backgroundColor%22%3A%22%23215be4%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22badgeColor%22%3A%22%231e3a5f%22%2C%22badgeColor1%22%3A%22%23246684%22%2C%22badgeColor2%22%3A%22%2306b6d4%22%2C%22badgeColor3%22%3A%22%231e3a5f%22%7D&username=web2and3)
 
-* Smart contracts (Solana, Ethereum, EVM)
-* Tokens: ERC20, BEP20, TRC20, SPL
-* NFTs, staking, vesting, governance
-* DeFi tools, dApps, bots, automation
-
-### 💻 **Frontend Development**
-
-* React, Next.js, TypeScript, Tailwind CSS
-
-### ⚙️ **Backend Development**
-
-* Node.js, Express.js
-* Python, FastAPI
-
-### 🗄 **Databases**
-
-* MongoDB, PostgreSQL, Redis
-
-### ☁️ **DevOps & Cloud**
-
-* AWS, Docker, CI/CD, GitHub Actions
-
-### 📱 **Mobile Development**
-
-* React Native, Flutter
-
-### 🤖 **AI / Machine Learning**
-
-* TensorFlow, PyTorch, Scikit-learn
+</div>
 
 ---
 
