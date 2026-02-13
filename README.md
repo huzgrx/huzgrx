@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://t.me/Hi_Web2and3"><img src="https://github-readme-widget-generator.netlify.app/api/card-with-avatar?username=web2and3&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D&t=4" alt="@Hi Web2 and 3" /></a>
+<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://github-readme-widget-generator.netlify.app/api/card-with-avatar?username=web2and3&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D&t=4" alt="@Hi Web2 and 3" /></a>
 
 </div>
 
@@ -18,7 +18,7 @@ I work across **blockchain, full-stack development, automation, and mobile apps*
 When I'm not coding, I'm exploring new tech, contributing to open-source, or sharing knowledge with other developers.
 <div align="center">
   
-<a href="https://github.com/web2and3/github-readme-widget-generator.git"><img src="https://telegram-card.vercel.app/?username=hi_web2and3&theme=dark&bgColor=rgba%2816%2C22%2C38%2C1%29" alt="@Hi Web2 and 3" style="width: 400px;" /></a>
+<a href="https://t.me/Hi_Web2and3"><img src="https://telegram-card.vercel.app/?username=hi_web2and3&theme=dark&bgColor=rgba%2816%2C22%2C38%2C1%29" alt="@Hi Web2 and 3" style="width: 400px;" /></a>
 
 </div>
 
