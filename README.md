@@ -20,7 +20,7 @@ I work across **blockchain, full-stack development, automation, and mobile apps*
 When I'm not coding, I'm exploring new tech, contributing to open-source, or sharing knowledge with other developers.
 <div align="center">
   
-<a href="https://t.me/Hi_Web2and3"><img src="https://gitstrength.netlify.app/api/visitor-count?key=web2and3&theme=%7B%22panelColor%22%3A%22%231e1e1e%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22labelColor%22%3A%22%2322f374%22%2C%22lastDigitColor%22%3A%22%23dc2626%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22dividerColor%22%3A%22%230a0a0a%22%2C%22backgroundColor%22%3A%22%231a1b27%22%7D" alt="Hi Web2 and Web3" style="width: 400px;" /></a>
+<a href="https://t.me/Hi_Web2and3"><img src="https://gitstrength.netlify.app/api/visitor-count?key=web2and3&theme=%7B%22panelColor%22%3A%22%231e1e1e%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22labelColor%22%3A%22%2322f374%22%2C%22lastDigitColor%22%3A%22%23dc2626%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22dividerColor%22%3A%22%230a0a0a%22%2C%22backgroundColor%22%3A%22%231a1b27%22%7D" alt="Hi Web2 and Web3" style="" /></a>
 
 </div>
 
