@@ -38,10 +38,10 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 
 **Crypto Donations:**
 
-* **BEP20 / ERC20 (USDT/USDC/ETH/BSC)** — `0x9a1ad3f715d1885e2d10d97442dabaa96218a295`
-* **TRC20** — `TShix48bWgZ9wgMiiXrGWML3gPXgbUpHvG`
-* **SOL** — `8XdGr5YKeQBWVKRqBiWMp7ivF7YaJyRhtHyoGzPR9s7k`
-* **BTC** — `1JUNGAZcuSQLPeazmkj4uMbqYtMQhNwz54`
+* **BEP20 / ERC20 (USDT/USDC/ETH/BSC)** — `0xE06a3E9999058A36542Bd484fDB40d8Ac8F9F8fB`
+* **TRC20** — `TAP7xTsDeyUXXZ9grgwEbriqHXzYg4qZiJ`
+* **SOL** — `55JwWYu6XrNhw24oFH1Fj2RERY1KsYnN8Pa9iHUaEdBd`
+* **BTC** — `1jLq8JUDKMsTPdnyHPqXquezo2WT7zEX4`
 
 ---
 
